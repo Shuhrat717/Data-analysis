@@ -1,12 +1,12 @@
-''' DAX
+
 
 **Executive Summary**
 
 -- Total sales amount 
-Total Sales = SUM(FactInternetSales[SalesAmount])
+'Total Sales = SUM(FactInternetSales[SalesAmount])
 
 -- Number of orders
-Total Orders = DISTINCTCOUNT(FactInternetSales[SalesOrderNumber])
+Total Orders = DISTINCTCOUNT(FactInternetSales[SalesOrderNumber])'
 
 -- Number of unique customers
 Total Customers = DISTINCTCOUNT(FactInternetSales[CustomerKey])
@@ -76,5 +76,6 @@ TOPN(
     [Sales],
     DESC
 )
+
 
 
