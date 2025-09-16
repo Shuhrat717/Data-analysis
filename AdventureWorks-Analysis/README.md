@@ -4,14 +4,6 @@
 This repository contains a Power BI project built on the AdventureWorks dataset.
 The goal is to provide actionable insights into sales performance, customer behavior, product trends, and promotion effectiveness through interactive dashboards.
 
-📂 Repository Structure
-.
-├── project_overview.md   # Project description and goals
-├── dax_measures.md       # All DAX calculations used
-├── data_cleaning.ipynb   # Python notebook for preprocessing/EDA
-├── /pbix                 # Power BI files (dashboards)
-└── README.md             # Main repo documentation
-
 📑 Dashboard Pages
 
 Executive Summary → KPIs (Total Sales, Orders, Customers, YoY Growth %)
@@ -23,7 +15,7 @@ Customer Analysis → Demographics (age, gender, marital status, geography)
 Product Analysis → Category/Subcategory performance & Top 10 Products
 
 
-👉 Full description: Project Overview
+👉 Full description: https://github.com/Shuhrat717/Data-analysis/blob/main/AdventureWorks-Analysis/docs/project_overview.md
 
 🛠️ Tools & Technologies
 
@@ -35,6 +27,7 @@ Power BI (DAX, Data Modeling, Visualization) → Dashboard creation
 
 GitHub → Version control and portfolio showcase
 
+
 📈 Key DAX Measures
 
 Total Sales, Total Orders, Total Customers, Avg Order Value
@@ -43,7 +36,8 @@ YoY Growth %, Cumulative Sales, Sales With/Without Promotion
 
 Age segmentation (Age, Age Group)
 
-👉 Full list: DAX Measures
+👉 Full list: https://github.com/Shuhrat717/Data-analysis/blob/main/AdventureWorks-Analysis/docs/dax_measures.md
+
 
 🚀 How to Use
 
