@@ -10,7 +10,7 @@ Each project will have its own folder inside this repo with datasets, code, and 
 ## 📁 Projects
 Here you will find various projects such as:
 - Customer Analysis  
-- AdvantureWork Analysis  
+- AdventureWorks Analysis  
 - HR Analytics  
 - and many more in the future 🚀  
 
