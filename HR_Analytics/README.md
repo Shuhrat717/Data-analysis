@@ -62,5 +62,5 @@ This project is built on the IBM HR Attrition dataset and provides insights into
 ---
 
 👉 Additional Docs:  
-- [Project Overview](./docs/project_overview.md)  
-- [DAX Measures](./docs/dax_measures.md)  
+- [Project Overview](./doc/project_overview.md)  
+
